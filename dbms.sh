@@ -9,7 +9,7 @@ main_menu() {
     while true; do
         clear
         echo "=============================="
-        echo "  Bash DBMS - Main Menu"
+        echo "  PostgreSQL Bash DBMS"
         echo "=============================="
         echo "1) Create Database"
         echo "2) List Databases"

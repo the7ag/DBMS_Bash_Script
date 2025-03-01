@@ -26,12 +26,12 @@ A powerful, interactive command-line Database Management System for PostgreSQL b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/postgresql-bash-dbms.git
+   git clone https://github.com/the7ag/DBMS_Bash_Script.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd postgresql-bash-dbms
+   cd DBMS_Bash_Script
    ```
 
 3. Make the main script executable:

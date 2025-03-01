@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Root directory for databases
-DB_ROOT="databases"
-
-# Ensure the databases directory exists
-mkdir -p "$DB_ROOT"
+# PostgreSQL Credentials
+export PGUSER="postgres"
+export PGPASSWORD="man22477"
+export PGHOST="localhost"
+export PGPORT="5432"
